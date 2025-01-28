@@ -1,3 +1,4 @@
 int Student_ID,Student_ID1,Student_ID2,Student_ID3,Student_ID4;
 for (Student_ID = 0, Student_ID < 5, Student_ID++);
-printf("
+printf("Enter your student id : );
+scanf("%d",&student_id);
